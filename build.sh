@@ -274,7 +274,7 @@ case "$cmd" in
         echo "  update  Check + build only if newer version exists"
         echo "  clean   Remove build artifacts"
         echo ""
-        echo "Config: ~/Development/eastmone-choice/"
+        echo "Config: ~/Development/eastmoney-choice/"
         exit 1
         ;;
 esac
