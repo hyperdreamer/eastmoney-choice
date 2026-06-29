@@ -7,7 +7,7 @@
 set -euo pipefail
 
 # ── Configuration ──────────────────────────────────────────────
-SCRIPT_DIR="${SCRIPT_DIR:-$HOME/Development/eastmone-choice}"
+SCRIPT_DIR="${SCRIPT_DIR:-$HOME/Development/eastmoney-choice}"
 CDN_BASE="https://choice-app.eastmoney.com/choice/OfflinePackage"
 DISTROS=("uos" "kylin" "fangd")
 ARCH="${ARCH:-x86}"
