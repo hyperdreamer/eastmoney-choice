@@ -1,0 +1,14 @@
+# AppImage binary (~300-500 MB)
+*.AppImage
+
+# Build artifacts
+build/
+.tmp_check.deb
+squashfs-root/
+
+# Version tracking
+.source_url
+
+# IDE
+.idea/
+.vscode/
